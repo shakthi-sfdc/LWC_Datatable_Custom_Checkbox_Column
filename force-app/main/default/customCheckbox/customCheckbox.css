@@ -1,0 +1,6 @@
+:host {
+    --sds-c-checkbox-shadow-focus : white;
+    --slds-c-checkbox-shadow-focus : white;
+    --_slds-g-shadow-outset-focus : white;
+} 
+
